@@ -1,0 +1,6 @@
+C:\temp\databas\aa-ovning-1\Ovning1\Ovning1\bin\Debug\Ovning1.exe.config
+C:\temp\databas\aa-ovning-1\Ovning1\Ovning1\bin\Debug\Ovning1.exe
+C:\temp\databas\aa-ovning-1\Ovning1\Ovning1\bin\Debug\Ovning1.pdb
+C:\temp\databas\aa-ovning-1\Ovning1\Ovning1\obj\Debug\Ovning1.csprojAssemblyReference.cache
+C:\temp\databas\aa-ovning-1\Ovning1\Ovning1\obj\Debug\Ovning1.exe
+C:\temp\databas\aa-ovning-1\Ovning1\Ovning1\obj\Debug\Ovning1.pdb

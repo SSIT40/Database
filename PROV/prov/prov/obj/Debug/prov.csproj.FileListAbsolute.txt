@@ -1,0 +1,7 @@
+C:\temp\databas\PROV\prov\prov\bin\Debug\prov.exe.config
+C:\temp\databas\PROV\prov\prov\bin\Debug\prov.exe
+C:\temp\databas\PROV\prov\prov\bin\Debug\prov.pdb
+C:\temp\databas\PROV\prov\prov\obj\Debug\prov.csprojAssemblyReference.cache
+C:\temp\databas\PROV\prov\prov\obj\Debug\prov.csproj.CoreCompileInputs.cache
+C:\temp\databas\PROV\prov\prov\obj\Debug\prov.exe
+C:\temp\databas\PROV\prov\prov\obj\Debug\prov.pdb
